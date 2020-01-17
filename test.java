@@ -17,6 +17,9 @@ class Triangle{
         this.height = h;
     }
     //////////////////////////////////////
+    public void cool(){
+    	System.out.println("This is cool sh*t");
+    }
     public boolean isTall(){
         return this.height > 20;
     }
