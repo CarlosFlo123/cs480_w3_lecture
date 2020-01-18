@@ -13,7 +13,7 @@ class Triangle{
     public int getHeight(){
         return this.height;
     }
-    public void setHeight(int h){
+    public void setHeightForever(int h){
         this.height = h;
     }
     //////////////////////////////////////
